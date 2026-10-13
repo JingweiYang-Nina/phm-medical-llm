@@ -154,8 +154,8 @@ Unsloth 的 `apply_chat_template` 在未指定模板时默认使用 **Llama 3 �
 
 | 模型 | 地址 |
 |---|---|
-| 文本模型 | <ModelScope 链接> |
-| 多模态模型 | <ModelScope 链接> |
+| 文本模型 | https://www.modelscope.cn/models/JingweiYang/phm-qwen35-4b-med-llm |
+| 多模态模型 | https://www.modelscope.cn/models/JingweiYang/phm-qwen35-4b-med-vl |
 
 
 ## 免责声明
