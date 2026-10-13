@@ -1,0 +1,22 @@
+# Python 环境与缓存
+.venv/
+__pycache__/
+*.pyc
+unsloth_compiled_cache/
+
+# 训练与评估输出
+outputs/
+*.log
+
+# 数据处理生成的中间文件（可用脚本重新生成）
+1-training/2-prepare-dataset/question.csv
+1-training/2-prepare-dataset/answer.csv
+1-training/2-prepare-dataset/med-dataset*.json
+1-training/2-prepare-dataset/med-dataset*.jsonl
+
+# 原始测试集备份
+*-teacher.jsonl
+
+# 编辑器临时文件
+Untitled
+.DS_Store
